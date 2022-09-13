@@ -2,5 +2,8 @@ Kylian Mbappé;foci
 Jean Tigana;foci
 Michel Platini;foci
 Diego Maradona;foci
-Nyilasi Tibor;foci
 Lionel Messi;foci
+Nyilasi Tibor;foci
+Neymar Jr;foci
+Ábrahám Attila;kajakozó
+Hosszú Katinka; úszó
