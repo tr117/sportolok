@@ -3,4 +3,5 @@ Jean Tigana;foci
 Michel Platini;foci
 Diego Maradona;foci
 Nyilasi Tibor;foci
-Neymar Jr
+Neymar Jr;foci
+
