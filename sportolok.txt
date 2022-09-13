@@ -3,3 +3,4 @@ Jean Tigana;foci
 Michel Platini;foci
 Diego Maradona;foci
 Nyilasi Tibor;foci
+Hosszú Katinka;úszás
