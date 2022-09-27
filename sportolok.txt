@@ -1,5 +1,7 @@
-Kylian Mbappé;foci
+ylian Mbappé;foci
 Jean Tigana;foci
+Michel Platini;foci
+Bor Barna;cselgáncsozók
 Michel Platini;foci 
 Diego Maradona;foci
 Lionel Messi;foci
@@ -8,3 +10,6 @@ Neymar Jr;foci
 Ábrahám Attila;kajakozó
 Hosszú Katinka; úszó
 Antoine Brizard; röplabda
+Yohan Cabaye; foci
+Alain Giresse;foci
+
