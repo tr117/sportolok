@@ -1,4 +1,4 @@
-Kylian Mbappé;foci
+ylian Mbappé;foci
 Jean Tigana;foci
 Michel Platini;foci 
 Diego Maradona;foci
@@ -8,3 +8,5 @@ Neymar Jr;foci
 Faf De Klerk;Uniósrögbi-játékos =)
 Ábrahám Attila;kajakozó
 Hosszú Katinka; úszó
+Yohan Cabaye; foci
+Alain Giresse;foci
