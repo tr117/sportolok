@@ -1,4 +1,4 @@
-Kylian Mbappé;foci
+ylian Mbappé;foci
 Jean Tigana;foci
 Michel Platini;foci
 Diego Maradona;foci
@@ -7,3 +7,5 @@ Nyilasi Tibor;foci
 Neymar Jr;foci
 Ábrahám Attila;kajakozó
 Hosszú Katinka; úszó
+Ádám Sándor;foci
+
