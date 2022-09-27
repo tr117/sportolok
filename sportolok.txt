@@ -6,6 +6,8 @@ Michel Platini;foci
 Diego Maradona;foci
 Lionel Messi;foci
 Nyilasi Tibor;foci
+Hosszú Katinka;úszó
+Szoboszlai;foci
 Neymar Jr;foci
 Ábrahám Attila;kajakozó
 Hosszú Katinka; úszó
