@@ -1,7 +1,7 @@
-ylian Mbappé;foci
+Kylian Mbappé;foci
 Jean Tigana;foci
 Michel Platini;foci
-Bor Barna;cselgáncsozók
+Bor Barna;cselgáncsozó
 Michel Platini;foci 
 Diego Maradona;foci
 Lionel Messi;foci
@@ -10,9 +10,8 @@ Hosszú Katinka;úszó
 Szoboszlai;foci
 Neymar Jr;foci
 Ábrahám Attila;kajakozó
-Hosszú Katinka; úszó
-Szomorú Lacika; Kokszoló
-Szoboszlai; foci
-Yohan Cabaye; foci
-Antoine Brizard; röplabda
+Szomorú Lacika;Kokszoló
+Szoboszlai;foci
+Yohan Cabaye;foci
+Antoine Brizard;röplabda
 Alain Giresse;foci
