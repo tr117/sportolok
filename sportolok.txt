@@ -1,5 +1,7 @@
 ylian Mbappé;foci
 Jean Tigana;foci
+Michel Platini;foci
+Bor Barna;cselgáncsozók
 Michel Platini;foci 
 Diego Maradona;foci
 Lionel Messi;foci
