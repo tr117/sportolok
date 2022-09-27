@@ -1,1 +1,1 @@
-#A sportolók átlagsebességének kiszámítása
+#A sportolók átlagsebességének kiszámíthatósága
